@@ -16,6 +16,7 @@ npm i nodemon --save-dev
 # Run Server
 
 ## [Recommended] start server with script:
+npm run start 
 npm start
 
 ## start server without script:
