@@ -1,7 +1,8 @@
 # ExpressJS.HelloWorld.Boilerplate.API
 Simplest ExpressJS API boilerplate...
+Use request examples in rest-client.http file to try server.
 
-# Project Creation Steps
+# Project Creation Steps (Already done)
 
 ## Initialize node project
 npm init -y
